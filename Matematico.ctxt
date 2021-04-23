@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Matematico
+comment1.params=calculadora
+comment1.target=Matematico(Calculadora)
+comment2.params=a\ b\ c
+comment2.target=java.lang.String\ ordenarNumeros(int,\ int,\ int)
+comment3.params=base\ altura
+comment3.target=double\ areaCuadrado(double,\ double)
+comment4.params=x1\ y1\ x2\ y2
+comment4.target=double\ distanciaPuntos(int,\ int,\ int,\ int)
+comment5.params=x\ y
+comment5.target=java.lang.String\ verificarCuadrante(double,\ double)
+comment6.params=a\ b\ c
+comment6.target=java.lang.String\ calcularRaices(int,\ int,\ int)
+comment7.params=hipotenusa\ cateto
+comment7.target=java.lang.String\ valorCateto(int,\ int)
+comment8.params=x1\ x2\ y1\ y2
+comment8.target=java.lang.String\ ecuacionRecta(int,\ int,\ int,\ int)
+numComments=9
